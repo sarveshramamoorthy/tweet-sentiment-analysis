@@ -1,0 +1,3 @@
+#tdidfvectorizer
+analyzer: 'word'
+token_pattern: '\w{1,}'
